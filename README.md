@@ -31,3 +31,5 @@ And run yarn to install the dependecies
 ```bash
 cd js-starter ; yarn
 ```
+
+Now you are good to go. Have fun =)
