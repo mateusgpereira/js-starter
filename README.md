@@ -5,11 +5,11 @@ This project is a model to start coding, it comes with babel, webpack, eslint, p
 
 ---
 
-<img src="../media/babel.png" alt="babel logo" width="150"/>
-<img src="../media/eslint-logo.png" alt="eslint logo" width="150"/>
-<img src="../media/js-logo.png" alt="js logo" width="150"/>
-<img src="../media/webpack.png" alt="webpack logo" width="150"/>
-<img src="../media/prettier.png" alt="prettier logo" width="150"/>
+<img src="https://github.com/mateusgpereira/js-starter/blob/media/media/babel.png" alt="babel logo" width="150"/>
+<img src="https://github.com/mateusgpereira/js-starter/blob/media/media/eslint-logo.png" alt="eslint logo" width="150"/>
+<img src="https://github.com/mateusgpereira/js-starter/blob/media/media/js-logo.png" alt="js logo" width="150"/>
+<img src="https://github.com/mateusgpereira/js-starter/blob/media/media/webpack.png" alt="webpack logo" width="150"/>
+<img src="https://github.com/mateusgpereira/js-starter/blob/media/media/prettier.png" alt="prettier logo" width="150"/>
 
 ---
 
