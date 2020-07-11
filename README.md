@@ -16,7 +16,8 @@ This project is a model to start coding, it comes with babel, webpack, eslint, p
 
 <br />
 
-Just a nice and easy setup I like to use for my projects to keep my code clean and organized.
+Just a nice and easy setup I like to use for my vanilla JavaScript projects to keep my code clean and organized.<br />
+It already counst with all the advantages of babel + webpack to use new JS features in a large range of browsers.
 
 ### Installing
 
